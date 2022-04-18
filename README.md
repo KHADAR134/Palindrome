@@ -4,27 +4,28 @@
 ## Aim:
 To write a C# program to find whether the given string is a Palindrome or not.
 ## Algorithm:
-Step1:
+
+## Step1:
 
 Start
 
-Step2:
+## Step2:
 
 Create a class and declare two variable with string datatype
 
-Step3:
+## Step3:
 
 Loop over the entire string and reverse it
 
-Step4:
+## Step4:
 
 Use if condition to check whether the string and the reversed string is equal or not
 
-Step5:
+## Step5:
 
 print palindrome if it's equal else print not a palindrome.
 
-Step6:
+## Step6:
 
 stop
 
