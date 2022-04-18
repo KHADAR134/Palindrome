@@ -9,6 +9,7 @@ Step1:
 Start
 
 Step2:
+
 Create a class and declare two variable with string datatype
 
 Step3:
